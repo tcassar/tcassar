@@ -1,7 +1,7 @@
 # Tom Cassar
 
 _(Incoming) Engineer at [Arm]()_
-- B.Sc. Computer Science at the University of Manchester
+- B.Sc. Computer Science at the University of Manchester: First Class
 
 ---
 ## Linux System Call Filtering
