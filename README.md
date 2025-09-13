@@ -1,6 +1,6 @@
 # Tom Cassar
 
-_(Incoming) Engineer at Arm_
+_Engineer at Arm_
 
 - B.Sc. Computer Science at the University of Manchester: First Class
 
