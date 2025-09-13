@@ -1,8 +1,7 @@
 # Tom Cassar
 
 _Engineer at Arm_
-
-- B.Sc. Computer Science at the University of Manchester: First Class
+_B.Sc. Computer Science at the University of Manchester: First Class_
 
 ---
 
@@ -16,10 +15,10 @@ _Engineer at Arm_
 ## Hackathons and Competitions
 
 - 🥈 2nd Place (/12 teams) UoM Competitive Programming Competition (03/2025)
-- 🥇 Autotrader Machine Learning Hackathon Winner (03/2024)
-- 🥇 Bloomberg BPuzzled Manchester Winner (11/2023); Competed in global finals
+- 🥇 1st Place Autotrader Machine Learning Hackathon (03/2024)
+- 🥇 1st Place Bloomberg BPuzzled Manchester (11/2023); Competed in global finals
   (04/2024)
-- 🥇 Sony Hackathon Winner (06/2023)
+- 🥇 1st Place Sony x UoM Hackathon (06/2023)
 
 ---
 
